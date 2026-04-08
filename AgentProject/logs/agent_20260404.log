@@ -1,0 +1,14 @@
+2026-04-04 03:31:48,633 - agent - INFO - loggger_handler.py:55 - 信息日志
+2026-04-04 03:31:48,633 - agent - ERROR - loggger_handler.py:56 - 错误日志
+2026-04-04 03:31:48,633 - agent - WARNING - loggger_handler.py:57 - 警告日志
+2026-04-04 03:31:48,633 - agent - DEBUG - loggger_handler.py:58 - 调试日志
+2026-04-04 12:53:12,788 - agent - ERROR - prompt_loader.py:44 - [load_report_prompts]解析报告生成提示词出错，[Errno 2] No such file or directory: 'D:\\MY\\pycharm\\AgentProject\\prompts/report_prompt.txt'
+2026-04-04 12:53:50,594 - agent - ERROR - prompt_loader.py:30 - [load_rag_prompts]解析RAG提示词出错，[Errno 2] No such file or directory: 'D:\\MY\\pycharm\\AgentProject\\prompts/rag_summarize.txt'
+2026-04-04 13:29:57,956 - agent - INFO - vector_store.py:99 - [加载知识库]D:\MY\pycharm\AgentProject\data\测试A.txt 内容加载成功
+2026-04-04 13:29:58,270 - agent - INFO - vector_store.py:99 - [加载知识库]D:\MY\pycharm\AgentProject\data\测试B.txt 内容加载成功
+2026-04-04 13:30:06,896 - agent - INFO - vector_store.py:77 - [加载知识库]D:\MY\pycharm\AgentProject\data\测试A.txt内容已经存在知识库内，跳过
+2026-04-04 13:30:06,896 - agent - INFO - vector_store.py:77 - [加载知识库]D:\MY\pycharm\AgentProject\data\测试B.txt内容已经存在知识库内，跳过
+2026-04-04 13:30:23,009 - agent - INFO - vector_store.py:77 - [加载知识库]D:\MY\pycharm\AgentProject\data\测试A.txt内容已经存在知识库内，跳过
+2026-04-04 13:30:23,009 - agent - INFO - vector_store.py:77 - [加载知识库]D:\MY\pycharm\AgentProject\data\测试B.txt内容已经存在知识库内，跳过
+2026-04-04 13:30:37,229 - agent - INFO - vector_store.py:77 - [加载知识库]D:\MY\pycharm\AgentProject\data\测试A.txt内容已经存在知识库内，跳过
+2026-04-04 13:30:37,230 - agent - INFO - vector_store.py:77 - [加载知识库]D:\MY\pycharm\AgentProject\data\测试B.txt内容已经存在知识库内，跳过
